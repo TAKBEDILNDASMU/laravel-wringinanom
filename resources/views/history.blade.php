@@ -164,7 +164,13 @@
                             <p class="border-white border-t-2">Andi Susilo</p>
                         </div>
                     </div>
-
+                    <div class="swiper-slide flex flex-col items-center">
+                        <img class="w-44 rounded-t-3xl" src="{{asset('assets/img/img_perangkat_desa/img14.jpg')}}">
+                        <div class="bg-black bg-opacity-30 text-white text-center absolute w-44 bottom-0 py-2">
+                            <span>Sekretaris Desa</span>
+                            <p class="border-white border-t-2">Ade Dwi Prasetya</p>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="swiper-pagination relative mt-4"></div>
